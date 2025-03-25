@@ -13,4 +13,4 @@ const Talk = () => {
   )
 }
 
-export default Talk
+export default Talk;
